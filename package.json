@@ -1,0 +1,23 @@
+{
+  "name": "gt-fruitstand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanjwatson/gt-fruitstand.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathanjwatson/gt-fruitstand/issues"
+  },
+  "homepage": "https://github.com/jonathanjwatson/gt-fruitstand#readme",
+  "devDependencies": {
+    "jest": "^25.2.4"
+  }
+}
